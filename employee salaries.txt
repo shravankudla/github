@@ -1,1 +1,1 @@
-salaries
+new salaries
